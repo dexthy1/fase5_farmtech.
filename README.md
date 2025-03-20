@@ -9,3 +9,5 @@ Outro aspecto relevante do projeto foi a estimativa de custos relacionados à ut
 Este trabalho visa não apenas aplicar conceitos de Machine Learning, mas também entender a viabilidade técnica e econômica de soluções automatizadas para o setor agrícola, com o intuito de promover uma agricultura mais eficiente, sustentável e inovadora.
 
 https://github.com/dexthy1/fase5_farmtech./blob/main/Fase5_FarmTech.ipynb
+
+https://youtu.be/rzFr2gMET6k
